@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio_page_materialUI/static/css/main.6f33e77d.chunk.css",
+    "main.js": "/Portfolio_page_materialUI/static/js/main.5ddbc6ba.chunk.js",
+    "main.js.map": "/Portfolio_page_materialUI/static/js/main.5ddbc6ba.chunk.js.map",
+    "runtime-main.js": "/Portfolio_page_materialUI/static/js/runtime-main.c2e36464.js",
+    "runtime-main.js.map": "/Portfolio_page_materialUI/static/js/runtime-main.c2e36464.js.map",
+    "static/js/2.51ba686c.chunk.js": "/Portfolio_page_materialUI/static/js/2.51ba686c.chunk.js",
+    "static/js/2.51ba686c.chunk.js.map": "/Portfolio_page_materialUI/static/js/2.51ba686c.chunk.js.map",
+    "static/js/3.4eec5754.chunk.js": "/Portfolio_page_materialUI/static/js/3.4eec5754.chunk.js",
+    "static/js/3.4eec5754.chunk.js.map": "/Portfolio_page_materialUI/static/js/3.4eec5754.chunk.js.map",
+    "index.html": "/Portfolio_page_materialUI/index.html",
+    "static/css/main.6f33e77d.chunk.css.map": "/Portfolio_page_materialUI/static/css/main.6f33e77d.chunk.css.map",
+    "static/js/2.51ba686c.chunk.js.LICENSE.txt": "/Portfolio_page_materialUI/static/js/2.51ba686c.chunk.js.LICENSE.txt",
+    "static/media/avatar.d94025aa.png": "/Portfolio_page_materialUI/static/media/avatar.d94025aa.png",
+    "static/media/App.css": "/Portfolio_page_materialUI/static/media/coffee-apple.a0c19713.jpg",
+    "static/media/html-css-javascript-lg.91568b14.jpg": "/Portfolio_page_materialUI/static/media/html-css-javascript-lg.91568b14.jpg",
+    "static/media/javascript-fullstack.f5822e7b.jpg": "/Portfolio_page_materialUI/static/media/javascript-fullstack.f5822e7b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2e36464.js",
+    "static/js/2.51ba686c.chunk.js",
+    "static/css/main.6f33e77d.chunk.css",
+    "static/js/main.5ddbc6ba.chunk.js"
+  ]
+}
